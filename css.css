@@ -1,0 +1,52 @@
+main {
+    background-color: rgb(235, 235, 235);
+    margin: 1em 0.2em;
+    padding: 1em 0.7em
+}
+
+h1,
+#title-p {
+    text-align: center;
+}
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+}
+
+#img-caption {
+    text-align: center;
+    margin: 15px 0 5px 0;
+}
+
+#headline {
+    text-align: center;
+    margin: 50px 0;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 1.6
+}
+
+ul>li {
+    margin: 16px 0;
+}
+
+blockquote {
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h3 {
+    text-align: center;
+}
